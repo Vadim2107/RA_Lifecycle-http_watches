@@ -1,3 +1,11 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3k672nsf7f79mvlh?svg=true)](https://ci.appveyor.com/project/Vadim2107/ra-lifecycle-http-watches)
+
+### [GitHub Pages](https://vadim2107.github.io/RA_Lifecycle-http_watches/)
+
+# Домашнее задание к курсу «React: библиотека № 1 в современной фронтенд-разработке»
+
+## RA_Lifecycle-http_watches
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
