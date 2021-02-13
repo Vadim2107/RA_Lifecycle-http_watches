@@ -33,28 +33,6 @@ input {
   margin-right: 30px;  
 }
 
-/* .table-head {
-  margin-bottom: 30px;
-} */
-
-/* .table-steps {
-  border: solid black 2px;
-  border-radius: 5px;  
-}
-
-th {
-  font-weight: normal;
-  width: 200px;
-  text-align: start;
-}
-
-.item-action {
-  cursor: pointer;
-  background-color: white;
-  border: 0px;
-  margin-right: 10px;
-} */
-
 .watches {
   display: flex;
   flex-wrap: wrap;
@@ -68,6 +46,10 @@ th {
 h4 {
   text-align: center;
   margin-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
 }
 
 .delete {

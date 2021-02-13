@@ -2,7 +2,7 @@ import React from 'react';
 
 function ButtonDel(props) {
     return (
-        <button type="submit" className="delete" onClick={props.onSubmit}>X</button>
+        <button className="delete" onClick={props.onRemove}>X</button>
     )
 }
 
