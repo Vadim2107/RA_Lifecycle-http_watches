@@ -153,7 +153,6 @@ class Clock extends React.Component {
             </div>
         )
     }
-
 }
 
 export default Clock;
