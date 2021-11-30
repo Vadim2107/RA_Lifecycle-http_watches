@@ -27,6 +27,11 @@ input {
   cursor: pointer;
 }
 
+.submit:hover {
+  background-color: rgb(76, 173, 76);
+  color: #fbf5f5;
+}
+
 .form {
   display: flex;
   flex-direction: column;

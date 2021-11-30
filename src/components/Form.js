@@ -2,7 +2,7 @@ import React from 'react';
 
 function Form(props) {
     const {form, onSubmit, onChange} = props;
-    
+
     return (
         <form onSubmit={onSubmit}>        
             <div className='form'>
